@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="highAvailability:war">
+    <output-path>$PROJECT_DIR$/highAvailability/target</output-path>
+    <root id="archive" name="highAvailability.war">
+      <element id="artifact" artifact-name="highAvailability:war exploded" />
+    </root>
+  </artifact>
+</component>
